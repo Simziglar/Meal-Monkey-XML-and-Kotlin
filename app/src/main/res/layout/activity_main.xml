@@ -9,7 +9,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/ma_create_acc_btn"
         android:layout_width="0dp"
         android:layout_height="55dp"
         android:layout_marginStart="24dp"
@@ -24,7 +24,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button"
+        app:layout_constraintTop_toBottomOf="@+id/ma_login_btn"
         app:layout_constraintVertical_bias="0.0" />
 
     <ImageView
@@ -32,18 +32,17 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleType="center"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/imageView3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/organe_top_shape" />
 
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="304dp"
+        android:layout_marginTop="252dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -62,7 +61,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView3" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/ma_login_btn"
         android:layout_width="0dp"
         android:layout_height="50dp"
         android:layout_marginStart="24dp"
