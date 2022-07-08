@@ -12,6 +12,7 @@
     <color name="primary_font_color">#4A4B4D</color>
     <color name="secondary_font_color">#7C7D7E</color>
     <color name="placeholder_font_color">#B6B7B7</color>
+    <color name="placeholder_color">#F2F2F2</color>
     <color name="facebook_color">#367FC0</color>
     <color name="google_plus_color">#DD4B39</color>
 </resources>

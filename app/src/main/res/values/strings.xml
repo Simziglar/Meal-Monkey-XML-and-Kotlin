@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Meal Monkey Mobile</string>
     <string name="app_logo">app logo</string>
+
+
+    <string name="login_button_text">Login</string>
+    <string name="sign_in_button_text">Sign In</string>
+    <string name="create_acc_button_text">Create an Account</string>
+
+    <string name="facebook_button_text">Login with Facebook</string>
+    <string name="google_button_text">Login with Google</string>
+    <string name="add_your_details_to_login">Add your details to login</string>
+    <string name="your_email_hint_text">Your Email</string>
+
+    <string name="password_hint_text">Password</string>
+    <string name="forgot_your_password_text">Forgot your password?</string>
 </resources>
