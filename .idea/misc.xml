@@ -3,13 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1345" />
         <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/drawable/edit_box_background.xml" value="0.1" />
         <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/drawable/facebook_button_background.xml" value="0.1315" />
         <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/drawable/google_button_background.xml" value="0.1315" />
         <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/drawable/orange_button_background.xml" value="0.1685" />
         <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/drawable/outline_orange_background.xml" value="0.1685" />
-        <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/layout/activity_login.xml" value="0.16554054054054054" />
+        <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/drawable/resetters_background.xml" value="0.1345" />
+        <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/layout/activity_login.xml" value="0.2552083333333333" />
         <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/layout/activity_new_password.xml" value="0.16554054054054054" />
+        <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/layout/activity_otpresetter.xml" value="0.16554054054054054" />
+        <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/layout/activity_reset_password.xml" value="0.16554054054054054" />
+        <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/layout/activity_sign_up.xml" value="0.21" />
         <entry key="..\:/Users/Graphics07/AndroidStudioProjects/MealMonkeyMobile/app/src/main/res/layout/activity_splash_screen.xml" value="0.2149122807017544" />
       </map>
     </option>
